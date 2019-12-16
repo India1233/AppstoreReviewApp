@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "963FA383-24D5-4AF8-80E1-6593F5E6CB73"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA7008E3-B88A-4243-AFDB-97744E206ACD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppstoreReviewApp/AppStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "StoreReviewHelper"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "CA7008E3-B88A-4243-AFDB-97744E206ACD - c30771e3f4f4187"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_4D236F58B72A7C6CA9940FB4D08D57D7_func3"
+                  moduleName = "AppstoreReviewApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shiga/Documents/SWIFT/AppstoreReviewApp/AppstoreReviewApp/AppStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "CA7008E3-B88A-4243-AFDB-97744E206ACD - da25782fb1d0d33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppstoreReviewApp.StoreReviewHelper.minimumReviewWorthyActionCount.unsafeMutableAddressor : Swift.Int"
+                  moduleName = "AppstoreReviewApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shiga/Documents/SWIFT/AppstoreReviewApp/AppstoreReviewApp/AppStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBA3209D-71BF-4C43-96C2-673825BB6B60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppstoreReviewApp/AppStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "requestAppStoreReviewApp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

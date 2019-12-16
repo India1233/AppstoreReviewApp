@@ -15,6 +15,7 @@
 		D1ED8B8B23A70F4F0011D2C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1ED8B8923A70F4F0011D2C8 /* LaunchScreen.storyboard */; };
 		D1ED8B9623A70F4F0011D2C8 /* AppstoreReviewAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1ED8B9523A70F4F0011D2C8 /* AppstoreReviewAppTests.swift */; };
 		D1ED8BA123A70F4F0011D2C8 /* AppstoreReviewAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1ED8BA023A70F4F0011D2C8 /* AppstoreReviewAppUITests.swift */; };
+		D1ED8BAF23A70F710011D2C8 /* AppStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1ED8BAE23A70F710011D2C8 /* AppStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D1ED8B9C23A70F4F0011D2C8 /* AppstoreReviewAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppstoreReviewAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1ED8BA023A70F4F0011D2C8 /* AppstoreReviewAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppstoreReviewAppUITests.swift; sourceTree = "<group>"; };
 		D1ED8BA223A70F4F0011D2C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1ED8BAE23A70F710011D2C8 /* AppStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D1ED8B7E23A70F4B0011D2C8 /* AppDelegate.swift */,
 				D1ED8B8023A70F4B0011D2C8 /* SceneDelegate.swift */,
 				D1ED8B8223A70F4B0011D2C8 /* ViewController.swift */,
+				D1ED8BAE23A70F710011D2C8 /* AppStore.swift */,
 				D1ED8B8423A70F4B0011D2C8 /* Main.storyboard */,
 				D1ED8B8723A70F4F0011D2C8 /* Assets.xcassets */,
 				D1ED8B8923A70F4F0011D2C8 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				D1ED8B8323A70F4B0011D2C8 /* ViewController.swift in Sources */,
 				D1ED8B7F23A70F4B0011D2C8 /* AppDelegate.swift in Sources */,
 				D1ED8B8123A70F4B0011D2C8 /* SceneDelegate.swift in Sources */,
+				D1ED8BAF23A70F710011D2C8 /* AppStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -435,6 +439,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = W8ZB6PL47P;
 				INFOPLIST_FILE = AppstoreReviewApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -453,6 +458,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = W8ZB6PL47P;
 				INFOPLIST_FILE = AppstoreReviewApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
